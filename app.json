@@ -1,1 +1,31 @@
-{"name":"ALieN","description":" اهلا بكم في تنصيب سورس ALieN لتجميع النقاط","logo":"https://telegra.ph/file/880b667942b347e61a721.jpg","stack":"container","repository":"https://t.me/ujijs","keywords":["python","chatbot","telegrambot"],"website":"https://t.me/tztnn","env":{"APP_ID":{"description":"الايـبـي ايــدي","value":"","required":true},"DEVLO":{"description":"ايدي حساب التحكم","value":"","required":true},"APP_HASH":{"description":"الايـبـي هــاش","value":"","required":true},"TERMUX":{"description":"كود تيرمكس 1","value":"","required":true}}}
+{
+  "name": "𝙺𝙸𝙽𝙶",
+  "description": "اهلا بكم في تنصيب سورس الملك لتجميع النقاط",
+  "logo": "https://telegra.ph/file/880b667942b347e61a721.jpg",
+  "stack": "container",
+  "repository": "https://t.me/EF_19",
+  "keywords": ["python", "chatbot", "telegrambot"],
+  "website": "https://t.me/jnssghb",
+  "env": {
+    "APP_ID": {
+      "description": "الايـبـي ايــدي",
+      "value": "",
+      "required": true
+    },
+    "DEVLO": {
+      "description": "ايدي حساب التحكم",
+      "value": "",
+      "required": true
+    },
+    "APP_HASH": {
+      "description": "الايـبـي هــاش",
+      "value": "",
+      "required": true
+    },
+    "TERMUX": {
+      "description": "كود تيرمكس 1",
+      "value": "",
+      "required": true
+    }
+  }
+}
